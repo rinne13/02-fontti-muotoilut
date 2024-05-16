@@ -1,0 +1,71 @@
+
+#sisalto {
+    border: 10px solid #304F4F;
+    width: 500px;
+    margin: 200px auto 0;
+    max-width: 65rem;
+}
+
+#sailio{
+    padding: color rgb(131, 131, 205);
+    margin: color rgb(178, 237, 178);
+    background:#304F4F;
+    padding: 1rem;
+    color: aliceblue;
+    margin: 10px;
+    padding: 10px;
+    max-width: 65rem;
+
+}
+.emphasized{
+    font-style: italic;
+}
+.small {
+    font-size: 10px;
+    color: red;
+}
+.overlined {
+    text-decoration: line-through;
+}
+mark {
+    background-color: rgb(248, 165, 231);
+}
+
+.underlined
+{text-decoration: underline;
+}
+.subscript{
+    vertical-align: sub;
+    font-size: smaller;
+
+}
+.strong {
+    font-weight: 800;
+    color:#01FFFF;
+}
+
+.superscript {
+ vertical-align: super;
+ font-size: smaller;
+}
+
+h1{
+    font-size: 24px;
+    color:#DDB68A;
+}
+h2{
+    font-size: 22px;
+    color: #2FF82D;
+}
+h3{
+    font-size: 20px;
+}
+h4{
+    font-size: 18px;
+}
+h5 {
+    font-size: 16px; 
+}
+h6{
+    font-size: 14px;
+}
